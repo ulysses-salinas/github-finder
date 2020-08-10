@@ -1,10 +1,10 @@
 
 
-# Gihub-Finder React Application
+# Gihub Finder React Application
 
 ## Overview
 
-React Application exercise implementing class base components and stateless functional components. After achieving the desired functionality of the application the code will then be refactored into all functional components using hooks such as useState and useEffect. Finally the code will be refactored once again implementing app-level state using the Context API, the useReducer hook and the useContent hook.
+React Application exercise implementing class base components and stateless functional components. After achieving the desired functionality of the application, the code will is refactored into all-functional components using hooks such as useState and useEffect. Finally, the code will be refactored once again implementing app-level state using the Context API, the useReducer hook and the useContent hook.
 
 ### Technologies in Use
 
@@ -13,4 +13,4 @@ React Application exercise implementing class base components and stateless func
 
 ### See it work:
 
-[GitHub-Finder](https://githubfinder86753090210.netlify.app/)
+[GitHub Finder](https://githubfinder86753090210.netlify.app/)
