@@ -1,6 +1,6 @@
 
 
-# Gihub Finder React Application
+# Github Finder React Application
 
 ## Overview
 
