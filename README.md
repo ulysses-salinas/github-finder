@@ -15,9 +15,9 @@ deployed via Netlify.
 
 ### Technologies in Use
 
-- [React](https://reactjs.org/)
-- [GitHub REST API](https://docs.github.com/en/rest) for deployment
-- [Axios](https://www.npmjs.com/package/axios)
+- [React](https://reactjs.org/) for UI
+- [GitHub REST API](https://docs.github.com/en/rest) for GitHub user data
+- [Axios](https://www.npmjs.com/package/axios) for HTTP requests
 - [Netlify](https://www.netlify.com/) for deployment
 
 ### See it work:
