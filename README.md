@@ -22,4 +22,4 @@ deployed via Netlify.
 
 ### See it work:
 
-[GitHub-Finder](https://githubfinder86753090210.netlify.app/)
+[GitHub Finder](https://githubfinder86753090210.netlify.app/)
